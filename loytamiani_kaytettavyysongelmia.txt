@@ -1,0 +1,46 @@
+!- painikkeita muistuttavat tekstipalkit etusivulla → räikeää?
+	- etusivun numeroidut ohjeet eivät ole linkkejä
+
+- palvelun käyttö ei onnistu ilman toimitusosoitteen syöttämistä ravintola-hakuun
+	- toimii, jos hakee muuta kautta?
+
+- hae-painike on liian pieni/huomaamaton isolla näytöllä → ei erotu
+	- oleellista? erottuu silti taustasta…
+
+- tunnuksen luomisen pakollisuutta ei ole kerrottu missään
+	- selviää, kun tilaa
+
+- reCAPTCHA tulee hyväksyä ennen kuin rekisteröitymislomakkeen pystyy täyttämään
+	- tulee hyväksyä, jotta tekstikentät ottavat kirjoitusta vastaan
+
+!- sivun ylälaidan valikko ilmestyy näkyviin ja katoaa näkyvistä tietyillä sivuilla
+	- ei näkyvissä etusivulla!
+
+- ravintolahaussa ei kaupunkilistausta ole rajoitettu esim. nykyisen sijainnin läheisiin alueisiin
+	- ei kaikkia kaupunkeja listana näkyviin, käytettävä mieluummin esim. alasvetovalikkoa
+
+!- käyttäjälle jää epäselväksi, missä järjestyksessä ravintolat ovat yhden, valitun alueen alla
+	- esim. aakkos-, suosituimmuus- vai hintaluokkajärjestyksessä?
+
+- karttanäkymä hämää: miksi se on vain ravintolat-sivulla eikä esim. myös etusivulla vaikka se on oleellinen?
+
+(varalla!)- mitä bonus-teksti tarkoittaa ravintolahaussa? miksi bonus on suurempi joidenkin ravintoloiden kohdalla kuin toisten?
+	- palvelun omaa sanastoa ei ole avattu
+
+- palvelu ei kerro suoraan ravintolahaun yhteydessä, mitä ruokaa ravintolat tarjoavat
+	- ei ruokalistoja saatavilla yhdessä näkymässä (esim. PDF:nä)
+
+- eri näkymät eivät muista aiemmin haettua/valittua kaupunkia
+
+!- eri asettelukäytännöt sivujen välillä
+	- ei yhtenäisyyttä/säännönmukaisuutta
+
+- palvelu listaa myös suljettuna olevat ravintolat
+	- palvelu ei ota huomioon ravintoloiden aukioloaikoja näyttäessään kaikki ravintolat
+	- palvelu listaa myös ilman kotiinkuljetusta olevat ravintolat samassa näkymässä, ei eroteltu erilleen
+
+- vaikka ostoskori on tyhjä, se näyttää määrän ja loppusumman
+
+!- ravintolan tuotehaku-näkymä näyttää epäselvältä aloittelevalle käyttäjälle
+	- pitää hallita tietyt ”koodauskäytännöt”, kun syöttää eri ainekset samaan tekstikenttään → vaikea käyttäjille!
+	- edellyttää muistamista, ei hyvä käyttäjälle!
