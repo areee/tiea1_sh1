@@ -1,5 +1,4 @@
-# 1. suunnitteluharjoitus (SH1)
-1. suunnitteluharjoitus Tampereen yliopiston Käyttöliittymien perusteet -kurssille. (c) 2017.
+# Suunnitteluharjoitus 1 (SH1)
 
 [1. suunnitteluharjoituksen tehtävänanto](https://github.com/areee/tiea1_sh1/blob/master/SH1_tehtavananto.pdf)
 
